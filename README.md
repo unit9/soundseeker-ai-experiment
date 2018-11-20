@@ -1,4 +1,4 @@
-# Soundseeker - AI Experiment by UNIT9
+# Soundseeker - AI Experiment by [UNIT9](https://www.unit9.com/)
 
 ## Overview
 
