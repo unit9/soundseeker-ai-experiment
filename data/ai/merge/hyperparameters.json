@@ -1,0 +1,6 @@
+{
+  "loss": "mean_absolute_error",
+  "optimizer": "adam",
+  "metrics": ["accuracy", "mean_absolute_error"],
+  "batch_size": 50
+}

@@ -1,0 +1,10 @@
+{
+  "type": "dense",
+  "input_dim": 20,
+  "layers": [
+    {"dense": {"neurons": 256, "activation": "relu"}},
+    {"dense": {"neurons": 256, "activation": "relu"}},
+
+    {"dense": {"neurons": 10, "activation": "linear"}}
+  ]
+}
