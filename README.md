@@ -29,7 +29,7 @@ To see a full case study, visit https://www.unit9.com/project/royal-caribbean-so
 
 ## Setup
 
-1) Instal python anaconda [https://www.anaconda.com/]
+1) Instal python [anaconda](https://www.anaconda.com/)
 
 2) Create environment:
 
